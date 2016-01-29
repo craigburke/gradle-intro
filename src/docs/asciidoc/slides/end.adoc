@@ -1,4 +1,0 @@
-
-== Thank You 
-[.parrot]
-image::parrot.gif[]

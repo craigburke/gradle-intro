@@ -1,6 +1,0 @@
-apply plugin: 'git-hub'
-
-github {
-    karma 'craigburke/karma-gradle'
-    bower 'craigburke/bower-installer'
-}
