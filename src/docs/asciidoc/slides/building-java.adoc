@@ -1,0 +1,52 @@
+== Building Java (Groovy) Projects
+
+=== Apply Plugins
+
+[source,groovy]
+----
+apply plugin: 'groovy'
+----
+
+[source,groovy]
+----
+apply plugin: 'java'
+----
+
+=== Adding Dependencies
+
+[source,groovy]
+----
+apply plugin: 'java'
+----
+
+=== Main tasks
+
+assemble:: compiles and packages project (into a jar)
+check:: runs tests and verification tasks
+build:: runs both assemble and check
+
+=== Adding dependencies
+
+[source,groovy]
+----
+apply plugin: 'groovy'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy:2.4.5'
+    testCompile group:'org.spockframework', name:'spock-core', version:'1.0-groovy-2.4'
+}
+----
+
+
+=== Dependency configurations
+
+compile:: The dependencies required to compile the source of the project.
+runtime:: The dependencies required by the at runtime (includes compile time dependencies).
+testCompile:: The additional dependencies required to compile the tests the project (includes compile dependecies).
+testRuntime:: The dependencies required by the tests at runtime (includes testCompile and runtime dependecies).

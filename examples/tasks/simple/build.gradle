@@ -1,0 +1,14 @@
+task foo { 
+    doLast { 
+        println "FOO!"
+	}
+}
+
+task bar { 
+    mustRunAfter foo
+    doLast { 
+        println "BAR!"
+	}
+}
+
+task foobar(dependsOn: [foo, bar])

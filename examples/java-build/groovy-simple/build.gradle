@@ -1,0 +1,12 @@
+apply plugin: 'groovy'
+apply plugin: 'application'
+
+mainClassName = 'com.craigburke.gradle.Main'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy:2.4.5'
+}

@@ -1,0 +1,30 @@
+== Getting Started with Gradle
+
+=== Terminology
+
+Task:: an atomic piece of work
+
+Project:: collection of tasks
+
+Build:: one or more projects
+
+=== Installing Gradle
+
+1. Use SDKMan!
+
+2. Download from gradle.org:
+	http://gradle.org/gradle-download/
+	
+3. Use Gradle wrapper
+
+
+=== Create a New Project
+
+* Create a build.gradle file
+* Run gradle init
+
+[source,bash]
+----
+gradle init 
+gradle init --type groovy-library
+----

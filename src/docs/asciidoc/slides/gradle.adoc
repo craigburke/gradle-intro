@@ -1,0 +1,9 @@
+== What is Gradle?
+=== Powerful build tool with:
+
+[.step]
+* Groovy DSL
+* Dependency management
+* Support for many languages/platforms
+* Plugins
+* A terrible website

@@ -1,0 +1,10 @@
+[data-background="#6598A9"]
+
+[[title]]
+== All About Gradle
+
+[[author]]
+Craig Burke
+
+[[title-logo]]
+image::groovypgh.png[]

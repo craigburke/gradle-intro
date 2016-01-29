@@ -1,0 +1,5 @@
+apply plugin: 'foo-plugin'
+
+foo {
+    message = 'Helloooo Groovy Pittsburgh!'
+}

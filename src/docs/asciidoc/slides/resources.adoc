@@ -1,0 +1,28 @@
+== Resources
+
+[.listheading]
+Books 
+
+[.resources]
+* icon:book[]Building and Testing with Gradle
+** http://www2.gradle.com/l/68052/2015-01-13/6dm
+* icon:book[]Gradle Beyond the Basics!
+** http://www2.gradle.com/l/68052/2015-01-26/23s5
+* icon:book[]Gradle In Action
+** https://www.manning.com/books/gradle-in-action
+
+[.listheading]
+Presentations
+
+[.resources]
+* icon:bullhorn[]Building A Full Application Stack With Gradle
+** https://www.youtube.com/watch?v=YoaZrHE4CSk
+* icon:bullhorn[]Gradle: From User to Addict
+** https://www.youtube.com/watch?v=-C7TtnPJ7ms
+
+[.listheading]
+Links
+
+[.resources]
+* icon:globe[]Gradle User Guide
+** https://docs.gradle.org/current/userguide/userguide.html

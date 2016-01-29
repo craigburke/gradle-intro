@@ -1,0 +1,23 @@
+:icons: font
+:imagesdir: images
+:sourcedir: snippets
+
+include::slides/title.adoc[]
+
+include::slides/about-me.adoc[]
+
+include::slides/gradle.adoc[]
+
+include::slides/groovy.adoc[]
+
+include::slides/getting-started.adoc[]
+
+include::slides/tasks.adoc[]
+
+include::slides/building-java.adoc[] 
+
+include::slides/plugins.adoc[] 
+
+include::slides/resources.adoc[] 
+
+include::slides/end.adoc[]
