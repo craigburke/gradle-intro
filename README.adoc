@@ -1,0 +1,12 @@
+= All About Gradle
+
+An introduction to Gradle given at the Pittsburgh Groovy Meetup on January 28, 2016.
+
+== Video
+
+image::http://img.youtube.com/vi/xyJvFqLLdXg/0.jpg[link="https://www.youtube.com/watch?v=xyJvFqLLdXg"]
+
+== Slides
+
+http://www.craigburke.com/gradle-intro/
+
