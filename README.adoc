@@ -1,6 +1,6 @@
 = All About Gradle
 
-An introduction to Gradle given at the Pittsburgh Groovy Meetup on January 28, 2016.
+All About Gradle, a introduction to Gradle talk given at the Pittsburgh Groovy Meetup on January 28, 2016.
 
 == Video
 
